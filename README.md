@@ -1,152 +1,115 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=200&section=header&text=Muhaimin%20Azeem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Penetration%20Tester%20%7C%20Cloud%20Associate%20%7C%20Flutter%20Developer&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8f9fa,100:e9ecef&height=120&section=header&text=Muhaimin%20Azeem&fontSize=42&fontColor=1a1a2e&fontAlignY=55" />
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=SOC+Analyst+%26+Penetration+Tester;Cloud+Associate+%7C+AWS+%26+Huawei;Flutter+%26+FastAPI+Developer;CEH+Certified+%7C+Wazuh+%2F+n8n+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=4A90D9&center=true&vCenter=true&width=500&lines=SOC+Analyst+%26+Penetration+Tester;Cloud+Associate+%7C+AWS+%26+Huawei;Flutter+%26+FastAPI+Developer;CEH+Certified" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhaiminazeem&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/muhaiminazeem?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=muhaiminazeem&label=Profile+Views&color=4A90D9&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/muhaiminazeem?label=Followers&style=flat-square&color=4A90D9" />
 </div>
 
 <br/>
 
 ---
 
-## 🧠 About Me
+## About
 
-```yaml
-Name        : Muhaimin Azeem
-Role        : SOC Analyst | Penetration Tester | Cloud Associate | Flutter Dev
-Certified   : CEH (Certified Ethical Hacker)
-Cloud       : AWS Solutions Architect (SAA-C03) | Huawei Cloud
-Stack       : Python · FastAPI · PostgreSQL · Flutter · Dart · Docker · Wazuh · n8n
-Contact     : muhaiminsial@gmail.com
-Fun Fact    : I manage cloud ledger DBs for a real estate agency by day
-              and run a custom Wazuh/n8n security stack by night 🌙
+I'm a cybersecurity professional and developer focused on building secure, scalable systems.  
+Currently completing my final year with a focus on AI-driven SOC automation and cloud security.
+
+```
+CEH Certified  ·  AWS & Huawei Cloud  ·  Python / FastAPI  ·  Flutter  ·  Wazuh / n8n
 ```
 
----
-
-## 🚀 What I'm Up To
-
-- 🔭 Building an **AI-driven automated SOC platform** + **web security scanner** (Final Year Project)
-- 🏗️ Developing **custom desktop accounting software** for Sandhu Group with FastAPI & PostgreSQL
-- ☁️ Deep-diving into **AWS scalable & secure infrastructure architecture**
-- 👯 Open to collaborate on **open-source cybersecurity tools, SIEM/SOAR integrations & Flutter apps**
-- 💬 Ask me about **pentesting, AWS/Huawei cloud, Python/FastAPI, glassmorphism UI/UX**
+- 🔭 Building an AI-driven SOC platform + web security scanner *(Final Year Project)*
+- 🏗️ Developing accounting software for Sandhu Group — FastAPI & PostgreSQL
+- ☁️ Studying scalable & secure AWS infrastructure architecture
+- 👯 Open to collaborating on cybersecurity tools, SIEM/SOAR integrations & Flutter apps
+- 📫 **muhaiminsial@gmail.com**
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhaiminazeem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhaiminazeem&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=4A90D9&text_color=444" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhaiminazeem&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=1a1a2e&text_color=444" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhaiminazeem&theme=default&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhaiminazeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhaiminazeem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhaiminazeem&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhaiminazeem&theme=minimal&hide_border=true&area=true&area_color=4A90D9&line=4A90D9&point=1a1a2e" />
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhaiminazeem&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <a href="https://github.com/muhaiminazeem/soc-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhaiminazeem&repo=soc-platform&theme=default&hide_border=true&title_color=1a1a2e&icon_color=4A90D9&text_color=444" />
+  </a>
+  <a href="https://github.com/muhaiminazeem/web-security-scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhaiminazeem&repo=web-security-scanner&theme=default&hide_border=true&title_color=1a1a2e&icon_color=4A90D9&text_color=444" />
+  </a>
 </div>
+
+> Replace repo names above with your actual repository names.
 
 ---
 
-## 🌟 Featured Projects
+## Stack
+
+**Cloud & DevOps**
+`AWS` `Docker` `Kubernetes` `Jenkins` `Linux`
+
+**Security**
+`Wazuh` `n8n` `Wireshark` `Metasploit` `Burp Suite`
+
+**Backend**
+`Python` `FastAPI` `Flask` `C++`
+
+**Mobile & Frontend**
+`Flutter` `Dart` `React` `HTML` `CSS` `JavaScript`
+
+**Databases**
+`PostgreSQL` `MySQL` `Oracle`
+
+---
+
+## Connect
 
 <div align="center">
   <a href="https://github.com/muhaiminazeem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhaiminazeem&repo=muhaiminazeem&theme=tokyonight&hide_border=true" alt="profile repo" />
-  </a>
-</div>
-
-> 💡 **Note:** Pin your top repos on GitHub → they'll show here once you replace the repo names above.
-
----
-
-## 🛡️ Skills & Tools
-
-### ☁️ Cloud & DevSecOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</p>
-
-### 🐍 Backend & APIs
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-</p>
-
-### 📱 Mobile & Frontend
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/muhaiminazeem" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://linkedin.com/in/muhaiminazeem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/muhaiminazeem5" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-  <a href="https://instagram.com/muhaimin.sial" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-  <a href="mailto:muhaiminsial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/muhaiminazeem">
+    <img src="https://img.shields.io/badge/LinkedIn-4A90D9?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/muhaiminazeem5">
+    <img src="https://img.shields.io/badge/Twitter-1a1a2e?style=flat-square&logo=twitter&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/muhaimin.sial">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="mailto:muhaiminsial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4A90D9?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=120&section=footer" />
+  <sub>Built with care · Muhaimin Azeem © 2024</sub>
 </div>
